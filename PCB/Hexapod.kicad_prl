@@ -38,7 +38,6 @@
       9,
       10,
       11,
-      12,
       13,
       15,
       16,
@@ -74,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "TinyHexapod.kicad_prl",
+    "filename": "Hexapod.kicad_prl",
     "version": 3
   },
   "project": {
