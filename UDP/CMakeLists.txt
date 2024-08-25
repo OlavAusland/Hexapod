@@ -10,7 +10,7 @@ add_library(UDP::UDP ALIAS UDP)
 if(WIN32)
     set(SOURCE_PATH "${PROJECT_SOURCE_DIR}/Windows")
 else()
-    set(SOURCE_PATH "${PROJECT_SOURCE_DIR}/Linux}")
+    set(SOURCE_PATH "${PROJECT_SOURCE_DIR}/Linux")
 endif()
 
 message(${SOURCE_PATH})
