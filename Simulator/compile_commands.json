@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\main.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\main.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\main.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_demo.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_demo.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_demo.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_draw.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_draw.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_draw.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_impl_glfw.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_impl_glfw.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_impl_glfw.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_impl_opengl3.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_impl_opengl3.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_tables.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_tables.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_tables.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_widgets.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_widgets.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\vendors\\imgui\\imgui_widgets.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\vendors\\imgui\\imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\src\\core\\IK.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\IK.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\IK.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\src\\core\\IK.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\src\\core\\shader.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\shader.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\shader.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\src\\core\\shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\src\\core\\leg.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\leg.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\leg.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\src\\core\\leg.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\src\\core\\hexapod.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\hexapod.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\core\\hexapod.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\src\\core\\hexapod.cpp.obj"
+},
+{
+  "directory": "C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DGLEW_STATIC -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/imgui\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/res\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/src\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/GLFW/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors/glew/include\" -I\"C:/Users/OlavA/Documents/Github Repositories/Hexapod/Simulator/vendors\" -o CMakeFiles\\Hexapod.dir\\src\\graphics\\line.cpp.obj -c \"C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\graphics\\line.cpp\"",
+  "file": "C:\\Users\\OlavA\\Documents\\Github Repositories\\Hexapod\\Simulator\\src\\graphics\\line.cpp",
+  "output": "CMakeFiles\\Hexapod.dir\\src\\graphics\\line.cpp.obj"
+}
+]
